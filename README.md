@@ -1,4 +1,4 @@
-
+![Aurell q-nerr](https://github.com/user-attachments/assets/66692d25-1d9a-4457-a658-14e4a14932dd)
 ## QR Scanner App
 
 A Mobile-based QR Scanner and Generator App.
