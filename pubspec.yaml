@@ -33,10 +33,31 @@ dependencies:
   flutter:
     sdk: flutter
 
+    # step pertama masukin depensdencies nya
+    # terus pastikan permissing nya
+    # masukin permission_handler dependencies
+
+    # git commit -m "add qr code scanner"
+
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
+  # library untuk proses scanning menggunakan camera
+  mobile_scanner: ^6.0.2
+  # library untuk proses scanning menggunakan camera
+
+  # library untuk melakukan permisiin nya
+  permission_handler: ^11.3.1
+
+  # library untuk generate dari mentah ke qr code
+  pretty_qr_code: ^3.3.0
+  share_plus: ^10.1.2
+  curved_navigation_bar: ^1.0.6
+  screenshot: ^3.0.0
+
+
+  
 
 dev_dependencies:
   flutter_test:
